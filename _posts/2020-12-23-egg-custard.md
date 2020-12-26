@@ -7,7 +7,7 @@ categories: deserts
 ### Ingredients
  
 - 4 .. 6 eggs 
-- ¼ .. ½ cup sugar 
+- Â¼ .. Â½ cup sugar 
 - 1 can evaporated (NOT SWEETENED) milk
 - pinch of salt 
 - up to 1 TBsp vanilla
@@ -21,7 +21,7 @@ categories: deserts
 
 ### Instructions
 
-1. Preheat oven to 325°.
+1. Preheat oven to 325Â°.
 2. Put all the ingredients into a 4 cup measuring cup.
 3. Beat above with a fork 
 4. Add whole milk until there are 4 cups.
