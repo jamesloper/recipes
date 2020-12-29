@@ -8,11 +8,11 @@ categories: deserts
 
 - 2 sticks unsalted butter (room temperature)
 - 1 cup packed dark brown sugar
-- ½ cup granulated sugar
+- Â½ cup granulated sugar
 - 2 large eggs
 - 2 cups all-purpose flour
 - 1 tsp salt
-- ¾ tsp baking soda
+- Â¾ tsp baking soda
 - 1 tsp vanilla extract
 - 4 cups semisweet chocolate chunks
 
@@ -30,9 +30,9 @@ categories: deserts
 7. Beat on medium, until blended. Do not overmix.
 8. Add chocolate chunks.
 9. Refrigerate until cold.
-10. Preheat to 350°.
+10. Preheat to 350Â°.
 11. Line baking sheets with parchment paper.
 12. Drop heaping spoonfuls of batter onto parchment paper
 13. Bake until golden brown around edges and soft but not bubbly, about 12 minutes.
 
-Makes 36 – 72 cookies.
+Makes 36 - 72 cookies.
