@@ -1,8 +1,14 @@
 ---
 layout: post
-title:  101 Simple Meals Ready in 10 Minutes or Less   By Mark Bittman   July 18, 2007
+title:  101 Simple Meals Ready in 10 Minutes or Less <!---  By Mark Bittman   July 18, 2007 -->
 categories: ?
 ---
+
+### Ingredients
+- 1 cup sprouted garbonzo beans
+
+### Equipment
+- stove
 
 ### Instructions
 
