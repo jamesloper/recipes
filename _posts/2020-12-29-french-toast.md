@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  French Bread French Toast
+title:  French Bread Toast
 categories: breakfast
 ---
 
@@ -39,3 +39,6 @@ Serves: 4
 Hands-on: 15 minutes
 Total: 20 minutes
 Difficulty: Easy
+
+![Stick of butter](ButterStick.jpg)
+
