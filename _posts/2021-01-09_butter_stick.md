@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-categories: meat
+categories: desert
 ---
 
 ### Ingredients
@@ -16,4 +16,4 @@ categories: meat
 ### Instructions
 
 1. Cream butter until fluffy.
-2. Bake until golden brown
+2. Bake until golden brown.
