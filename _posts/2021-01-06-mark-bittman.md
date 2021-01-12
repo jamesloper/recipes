@@ -4,9 +4,11 @@ title:  101 Simple Meals Ready in 10 Minutes or Less
 categories: vegetables
 ---
 
-### Recipes
+### Introduction
 
-0. The pleasures of cooking are sometimes obscured by summer haze and heat, which can cause many of us to turn instead to bad restaurants and worse takeout. But the cook with a little bit of experience has a wealth of quick and easy alternatives at hand. The trouble is that when it’s too hot, even the most resourceful cook has a hard time remembering all the options. So here are 101 substantial main courses, all of which get you in and out of the kitchen in 10 minutes or less. (I’m not counting the time it takes to bring water to a boil, but you can stay out of the kitchen for that.) These suggestions are not formal recipes; rather, they provide a general outline. With a little imagination and some swift moves — and maybe a salad and a loaf of bread — you can turn any dish on this list into a meal that not only will be better than takeout, but won’t heat you out of the house.
+The pleasures of cooking are sometimes obscured by summer haze and heat, which can cause many of us to turn instead to bad restaurants and worse takeout. But the cook with a little bit of experience has a wealth of quick and easy alternatives at hand. The trouble is that when it’s too hot, even the most resourceful cook has a hard time remembering all the options. So here are 101 substantial main courses, all of which get you in and out of the kitchen in 10 minutes or less. (I’m not counting the time it takes to bring water to a boil, but you can stay out of the kitchen for that.) These suggestions are not formal recipes; rather, they provide a general outline. With a little imagination and some swift moves — and maybe a salad and a loaf of bread — you can turn any dish on this list into a meal that not only will be better than takeout, but won’t heat you out of the house.
+
+### Recipes
 
 1. Make six-minute eggs: simmer gently, run under cold water until cool, then peel. Serve over steamed asparagus.
 
