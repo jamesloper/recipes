@@ -13,7 +13,7 @@ categories: vegetables
 
 ### Instructions
 
-The pleasures of cooking are sometimes obscured by summer haze and heat, which can cause many of us to turn instead to bad restaurants and worse takeout. But the cook with a little bit of experience has a wealth of quick and easy alternatives at hand. The trouble is that when it’s too hot, even the most resourceful cook has a hard time remembering all the options. So here are 101 substantial main courses, all of which get you in and out of the kitchen in 10 minutes or less. (I’m not counting the time it takes to bring water to a boil, but you can stay out of the kitchen for that.) These suggestions are not formal recipes; rather, they provide a general outline. With a little imagination and some swift moves — and maybe a salad and a loaf of bread — you can turn any dish on this list into a meal that not only will be better than takeout, but won’t heat you out of the house.
+0. The pleasures of cooking are sometimes obscured by summer haze and heat, which can cause many of us to turn instead to bad restaurants and worse takeout. But the cook with a little bit of experience has a wealth of quick and easy alternatives at hand. The trouble is that when it’s too hot, even the most resourceful cook has a hard time remembering all the options. So here are 101 substantial main courses, all of which get you in and out of the kitchen in 10 minutes or less. (I’m not counting the time it takes to bring water to a boil, but you can stay out of the kitchen for that.) These suggestions are not formal recipes; rather, they provide a general outline. With a little imagination and some swift moves — and maybe a salad and a loaf of bread — you can turn any dish on this list into a meal that not only will be better than takeout, but won’t heat you out of the house.
 
 1. Make six-minute eggs: simmer gently, run under cold water until cool, then peel. Serve over steamed asparagus.
 
@@ -75,7 +75,7 @@ The pleasures of cooking are sometimes obscured by summer haze and heat, which c
 
 30. Quesadilla: Use a combination of cheeses, like Fontina mixed with grated pecorino. Put on half of a large flour tortilla with pickled jalapenos, chopped onion, shallot or scallion, chopped tomatoes and grated radish. Fold tortilla over and brown on both sides in butter or oil, until cheese is melted.
 
-31 Fast chile rellenos: Drain canned whole green chilies. Make a slit in each and insert a piece of cheese. Dredge in flour and fry in a skillet, slit side up, until cheese melts.
+31. Fast chile rellenos: Drain canned whole green chilies. Make a slit in each and insert a piece of cheese. Dredge in flour and fry in a skillet, slit side up, until cheese melts.
 
 32. Cobb-ish salad: Chop bacon and begin to brown it; cut boneless chicken into strips and cook it with bacon. Toss romaine and watercress or arugula with chopped tomatoes, avocado, onion and crumbled blue cheese. Add bacon and chicken. Dress with oil and vinegar.
 
@@ -213,6 +213,6 @@ The pleasures of cooking are sometimes obscured by summer haze and heat, which c
 
 99. Cook a couple of pounds of shrimp, shell on or off, in oil, with lots of chopped garlic. When they turn pink, remove; deglaze the pan with a half-cup or so of beer, along with a splash of Worcestershire sauce, cayenne, rosemary and a lump of butter. Serve with bread.
 
-10.0 Cook red lentils in water with a little cumin and chopped bacon until soft. Top with poached or six-minute eggs (run under cold water until cool before peeling) and a little sherry vinegar.
+100. Cook red lentils in water with a little cumin and chopped bacon until soft. Top with poached or six-minute eggs (run under cold water until cool before peeling) and a little sherry vinegar.
 
 101. Hot dogs on buns — with beans!
