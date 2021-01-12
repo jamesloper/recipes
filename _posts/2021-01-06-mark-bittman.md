@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  101 Simple Meals Ready in 10 Minutes or Less  
-categories: vegetables
+By Mark Bittman  
+July 18, 2007
+categories: meals
 ---
 
 ### Introduction
