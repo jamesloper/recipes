@@ -8,7 +8,9 @@ categories: microwave
 
 Pot Pie - 6 minutes
 
-English Muffin - 90 seconds at 30%, then 65 sec at 100%
+English Muffin
+  * 90 seconds at 30%, then
+  * 65 sec at 100%
 
 Eggroll
   * wrap each eggroll in half of a towel paper   
