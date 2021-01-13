@@ -35,10 +35,10 @@ categories: breakfast
 6. Cook bread for 2 to 3 minutes on each side.
    Add more oil for the second batch.
 
-Serves: 4
-Hands-on: 15 minutes
-Total: 20 minutes
-Difficulty: Easy
+Serves: 4  
+Hands-on: 15 minutes  
+Total: 20 minutes  
+Difficulty: Easy  
 
-![Stick of butter](ButterStick.jpg)
+![Stick of butter](/posts/ButterStick.jpg)
 
