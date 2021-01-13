@@ -40,5 +40,4 @@ Hands-on: 15 minutes
 Total: 20 minutes  
 Difficulty: Easy  
 
-![Stick of butter][Don't forget:](ButterStick.jpg)
-
+![Stick of butter][Don't forget](/ButterStick.jpg)
